@@ -1,0 +1,21 @@
+.filtro{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/photo-1497294815431-9365093b7331.avif");
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.card{
+    border-radius: 15px;
+}
+
+#gradient{
+    background: #DC3545;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #DC3545, #DC3545, #da6572);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #DC3545, #DC3545, #da6572); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}

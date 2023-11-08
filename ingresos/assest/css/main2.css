@@ -1,0 +1,14 @@
+.row{
+    max-width: 100%;
+}
+.container{
+    min-height: 95vh;
+    border-radius: 10px;
+}
+button{
+    width: 100%;
+}
+button:hover{
+    background-color:rgb(0,140,255);
+}
+
